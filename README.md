@@ -142,7 +142,7 @@ Penjelasan:
 
 Menampilkan gambar asli
 
-![foto]()
+![foto](https://github.com/rafiubaydillah53-design/UTS_Pengolahan_Citra/blob/c264577097c5b2947127124a36ad88f65d52fe39/ss_citra/Screenshot%20(469).png)
 
 ### 🔹 Tahap 2
 
