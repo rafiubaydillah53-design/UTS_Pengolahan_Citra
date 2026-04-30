@@ -165,29 +165,10 @@ Menambahkan:
 
 ---
 
-## 🖼️ Hasil Output
-
-### 📌 Hasil Lengkap
-
-📍 Letakkan di:
-
-```
-hasil/hasil1.png
-```
-
-![Hasil](hasil/hasil1.png)
-
----
-
 ## 📸 Dokumentasi Tambahan
 
 ### 📌 Source Code
 
-📍 Letakkan di:
-
-```
-hasil/hasil2.png
-```
 
 ![Code](hasil/hasil2.png)
 
@@ -196,10 +177,6 @@ hasil/hasil2.png
 ### 📌 Struktur Folder
 
 📍 Letakkan di:
-
-```
-hasil/hasil3.png
-```
 
 ![Struktur](hasil/hasil3.png)
 
@@ -235,8 +212,3 @@ python main.py
 ```
 
 ---
-
-## 👤 Author
-
-Nama: (Isi Nama Kamu)
-NIM: (Isi NIM Kamu)
