@@ -142,6 +142,8 @@ Penjelasan:
 
 Menampilkan gambar asli
 
+![foto]()
+
 ### 🔹 Tahap 2
 
 Menambahkan konversi grayscale
