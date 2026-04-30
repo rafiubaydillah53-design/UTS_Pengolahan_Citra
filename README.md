@@ -148,9 +148,13 @@ Menampilkan gambar asli
 
 Menambahkan konversi grayscale
 
+![foto](https://github.com/rafiubaydillah53-design/UTS_Pengolahan_Citra/blob/c264577097c5b2947127124a36ad88f65d52fe39/ss_citra/Screenshot%20(471).png)
+
 ### 🔹 Tahap 3
 
 Menambahkan thresholding (biner)
+
+![foto](https://github.com/rafiubaydillah53-design/UTS_Pengolahan_Citra/blob/c264577097c5b2947127124a36ad88f65d52fe39/ss_citra/Screenshot%20(473).png)
 
 ### 🔹 Tahap 4
 
@@ -159,11 +163,15 @@ Menambahkan:
 * Adaptive Threshold
 * Otsu Threshold
 
+![foto](https://github.com/rafiubaydillah53-design/UTS_Pengolahan_Citra/blob/c264577097c5b2947127124a36ad88f65d52fe39/ss_citra/Screenshot%20(475).png)  
+
 ### 🔹 Tahap 5 (Final)
 
 Menambahkan:
 
 * Edge Detection (Canny)
+
+![foto](https://github.com/rafiubaydillah53-design/UTS_Pengolahan_Citra/blob/c264577097c5b2947127124a36ad88f65d52fe39/ss_citra/Screenshot%20(477).png)  
 
 ---
 
@@ -172,7 +180,15 @@ Menambahkan:
 ### 📌 Source Code
 
 
-![Code](hasil/hasil2.png)
+![foto](https://github.com/rafiubaydillah53-design/UTS_Pengolahan_Citra/blob/c264577097c5b2947127124a36ad88f65d52fe39/ss_citra/Screenshot%20(470).png)
+
+![foto](https://github.com/rafiubaydillah53-design/UTS_Pengolahan_Citra/blob/c264577097c5b2947127124a36ad88f65d52fe39/ss_citra/Screenshot%20(472).png)
+
+![foto](https://github.com/rafiubaydillah53-design/UTS_Pengolahan_Citra/blob/c264577097c5b2947127124a36ad88f65d52fe39/ss_citra/Screenshot%20(474).png)
+
+![foto](https://github.com/rafiubaydillah53-design/UTS_Pengolahan_Citra/blob/c264577097c5b2947127124a36ad88f65d52fe39/ss_citra/Screenshot%20(476).png)
+
+![foto](https://github.com/rafiubaydillah53-design/UTS_Pengolahan_Citra/blob/c264577097c5b2947127124a36ad88f65d52fe39/ss_citra/Screenshot%20(478).png)
 
 ---
 
